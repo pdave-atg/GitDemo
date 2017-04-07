@@ -4,3 +4,9 @@ H:\Users\pdave\Desktop\TestProjects\GitDemo\GitDemo\bin\Debug\GitDemo.pdb
 H:\Users\pdave\Desktop\TestProjects\GitDemo\GitDemo\obj\Debug\GitDemo.csprojResolveAssemblyReference.cache
 H:\Users\pdave\Desktop\TestProjects\GitDemo\GitDemo\obj\Debug\GitDemo.exe
 H:\Users\pdave\Desktop\TestProjects\GitDemo\GitDemo\obj\Debug\GitDemo.pdb
+H:\Users\pdave\Documents\GitHub\GitDemo\GitDemo\bin\Debug\GitDemo.exe.config
+H:\Users\pdave\Documents\GitHub\GitDemo\GitDemo\obj\Debug\GitDemo.exe
+H:\Users\pdave\Documents\GitHub\GitDemo\GitDemo\obj\Debug\GitDemo.pdb
+H:\Users\pdave\Documents\GitHub\GitDemo\GitDemo\bin\Debug\GitDemo.exe
+H:\Users\pdave\Documents\GitHub\GitDemo\GitDemo\bin\Debug\GitDemo.pdb
+H:\Users\pdave\Documents\GitHub\GitDemo\GitDemo\obj\Debug\GitDemo.csprojResolveAssemblyReference.cache
