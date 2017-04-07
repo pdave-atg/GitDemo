@@ -16,7 +16,10 @@ namespace GitDemo
     }
 
     class TestDemo
-    { 
-    
+    {
+        public void Test()
+        { 
+        
+        }
     }
 }
